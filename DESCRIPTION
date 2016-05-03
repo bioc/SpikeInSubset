@@ -1,6 +1,6 @@
 Package: SpikeInSubset
 Title: Part of Affymetrix's Spike-In Experiment Data
-Version: 1.11.0
+Version: 1.12.0
 Author: Rafael Irizarry <rafa@jhu.edu> and Zhijin Wu
 Description: Includes probe-level and expression data for the HGU133 and HGU95 spike-in experiments
 Maintainer: Rafael A. Irizarry <rafa@jhu.edu>
