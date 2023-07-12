@@ -1,6 +1,6 @@
 Package: SpikeInSubset
 Title: Part of Affymetrix's Spike-In Experiment Data
-Version: 1.41.0
+Version: 1.41.1
 Author: Rafael Irizarry <rafa@jhu.edu> and Zhijin Wu
 Maintainer: Robert D Shear <rshear@ds.dfci.harvard.edu>
 URL: https://bioconductor.org/packages/PACKAGE
