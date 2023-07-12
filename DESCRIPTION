@@ -2,8 +2,10 @@ Package: SpikeInSubset
 Title: Part of Affymetrix's Spike-In Experiment Data
 Version: 1.40.0
 Author: Rafael Irizarry <rafa@jhu.edu> and Zhijin Wu
+Maintainer: Robert D Shear <rshear@ds.dfci.harvard.edu>
+URL: https://bioconductor.org/packages/PACKAGE
+BugReports: https://github.com/rafalab/PACKAGE/issues
 Description: Includes probe-level and expression data for the HGU133 and HGU95 spike-in experiments
-Maintainer: Rafael A. Irizarry <rafa@jhu.edu>
 License: LGPL
 Depends: R (>= 2.4.0), Biobase (>= 2.5.5), affy (>= 1.23.4)
 biocViews: ExperimentData, MicroarrayData
